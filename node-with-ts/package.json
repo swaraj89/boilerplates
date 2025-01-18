@@ -1,0 +1,53 @@
+{
+  "name": "node-with-typescript",
+  "version": "0.0.1",
+  "description": "node and typescript boilerplate",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "nodemon",
+    "build": "tsc",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint src/**/*.ts --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swaraj89/boilerplates.git"
+  },
+  "keywords": [
+    "sass",
+    "node",
+    "typescript"
+  ],
+  "author": "saltandpepperstudios-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swaraj89/boilerplates/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.0",
+    "@types/cookie-parser": "^1.4.8",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^22.10.7",
+    "@typescript-eslint/eslint-plugin": "^8.20.0",
+    "@typescript-eslint/parser": "^8.20.0",
+    "axios": "^1.7.9",
+    "eslint": "^9.18.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.7.3",
+    "winston": "^3.17.0"
+  }
+}

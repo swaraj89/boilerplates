@@ -1,0 +1,7 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"HealthcheckController called","timestamp":"2025-01-18T04:46:59.786Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"304\",\"responseTime\":\"37.231\"}","timestamp":"2025-01-18T04:46:59.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"304\",\"responseTime\":\"7.832\"}","timestamp":"2025-01-18T04:47:21.268Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"304\",\"responseTime\":\"6.330\"}","timestamp":"2025-01-18T04:47:27.455Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"4.768\"}","timestamp":"2025-01-18T04:49:15.796Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"4.839\"}","timestamp":"2025-01-18T04:49:38.555Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"1.897\"}","timestamp":"2025-01-18T04:49:56.359Z"}
